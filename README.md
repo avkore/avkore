@@ -1,14 +1,14 @@
-# Hi there, I'm Dachi - 👋 
+# Hi There, I'm Dachi - 👋 
 
-## I'm a Student at BTU and Python//C# Developer!! 
+## I'm a Junior Python//C#//C Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers.
-- ⚡ Fun fact: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+- 💻 Currently Learning Everything 😄
+- 👯 Looking To Collaborate With Other Developers.
 
 ### Connect with me:
+✉️ Dachi.avkopashvili.1@btu.edu.ge
 
-https://linktr.ee/avko
+
 
 ### Languages and Tools:
 
