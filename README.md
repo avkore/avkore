@@ -1,6 +1,6 @@
 # Hi There, I'm Dachi - 👋 
 
-## I'm a Junior Python // C# Developer!!
+## I'm a Unity Developer!!
 
 - 💻 Currently Learning Everything 😄
 - 👯 Looking To Collaborate With Other Developers.
